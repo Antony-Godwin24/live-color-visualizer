@@ -1,0 +1,68 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 24px;
+  background-color: lightblue;
+}
+
+body{
+  min-height:100vh;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.App{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.square{
+  width:400px;
+  height:400px;
+  border:2px solid black;
+  box-shadow: 2px 2px 5px black;
+  border-radius: 0.25rem;
+  display: grid;
+  place-content: center;
+  background-color:white;
+}
+
+.square p{
+  text-align: center;
+}
+
+form{
+  width:300px;
+}
+
+label{
+  position: absolute;
+  left:-99999px;
+}
+
+input[type="text"]{
+  margin-top: 0.5rem;
+  padding: 0.25rem;
+  width:100%;
+  font-size: 1rem;
+  box-shadow: 2px 2px 5px black;
+  border-radius: 0.25rem;
+  outline:none;
+}
+
+button{
+  padding:0.25rem;
+  margin-top:0.5rem;
+  width:100%;
+  font-size:1rem;
+  box-shadow:2px 2px 5px black;
+  border-radius:0.25rem;
+  outline:none;
+}
