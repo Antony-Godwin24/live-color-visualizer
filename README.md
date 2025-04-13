@@ -48,8 +48,8 @@ Builds the app for production.
 
 ## ✨ Author
 
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+**ANTONY GODWIN S  
+[LinkedIn](https://www.linkedin.com/in/antony-godwin-s-7143ab2a4/) | [GitHub](https://lnkd.in/gxhtYy34)
 
 ---
 
